@@ -16,6 +16,9 @@ end
 
 # ╔═╡ 1a804dc1-2577-4693-b495-16d4d31a6b16
 begin
+	using Pkg
+	Pkg.activate(".")
+	Pkg.instantiate()
 	using SpecialFunctions
 	using FastGaussQuadrature
 	using Plots, PlutoExtras
