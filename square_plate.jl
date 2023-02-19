@@ -18,7 +18,6 @@ end
 begin
 	using Plots
 	using PlutoUI
-	using Makie
 end
 
 # ╔═╡ a62440b0-b428-46e4-ae64-743f2a0db7dc
