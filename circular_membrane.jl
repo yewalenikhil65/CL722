@@ -18,10 +18,9 @@ end
 begin
 	using SpecialFunctions
 	using FastGaussQuadrature
-	using Plots, PlutoExtras
+	using Plots
 	plotly()
 	using PlutoUI
-	using HypertextLiteral
 end
 
 # ╔═╡ ebb1578d-a478-4239-96b9-16782fc181b0
