@@ -7,4 +7,4 @@ Author of the content
 
 ## Following are the links for visualising interactive Pluto notebooks of individual topics
 
-- [Vibrations of circular membrane with the fixed edges](https://hub.gke2.mybinder.org/user/fonsp-pluto-on-binder-fb7eracp/pluto/edit?id=e4812b4a-b07f-11ed-282e-51b6e476761d)
+- [Vibrations of circular membrane with the fixed edges](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fyewalenikhil65%252FCL722%252Fmain%252Fcircular_membrane.jl)
