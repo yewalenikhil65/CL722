@@ -7,4 +7,5 @@ Author of the content
 
 ## Following are the links for visualising interactive Pluto notebooks of individual topics
 
-- [Vibrations of circular membrane with the fixed edges](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fyewalenikhil65%252FCL722%252Fmain%252Fcircular_membrane.jl)
+- [Mode shapes in the vibration of square membrane with the fixed edges](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fyewalenikhil65%252FCL722%252Fmain%252Fsquare_plate.jl)
+- [Mode shapes in the vibration of circular membrane with the fixed edges](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fyewalenikhil65%252FCL722%252Fmain%252Fcircular_membrane.jl)
